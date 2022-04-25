@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview
-### In order to help the company Pewlett-Hackard prepare for it's "silver tsunami," the number of retiring employees by title and the number of employees eligible for PH's mentorship program was determined using the company's employee database.
+#### In order to help the company Pewlett-Hackard prepare for it's "silver tsunami," the number of retiring employees by title and the number of employees eligible for PH's mentorship program was determined using the company's employee database.
 
 ## Results
 
